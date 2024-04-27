@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=Animal()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Animal\n
+comment2.params=distance
+comment2.target=java.lang.String\ move(int)
+comment2.text=\n\ move\ method\n\ param\ int\ distance\ -\ the\ distance\ the\ Animal\ should\ move\n\ All\ subclasses\ inherit\ this\ method\n
+comment3.params=
+comment3.target=java.lang.String\ getColour()
+comment3.text=\n\ getter\ method\ for\ colour\ field\n\ All\ subclasses\ inherit\ this\ method\n
+comment4.params=
+comment4.target=boolean\ hasSkin()
+comment4.text=\n\ 'getter'\ method\ for\ haSkin\ field\n\ All\ subclasses\ inherit\ this\ method\n
+comment5.params=
+comment5.target=boolean\ breathes()
+comment6.params=
+comment6.target=java.lang.String\ eats()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+numComments=8

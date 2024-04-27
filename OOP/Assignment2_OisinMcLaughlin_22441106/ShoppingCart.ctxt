@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ShoppingCart
+comment0.text=\n\ It\ should\ be\ clear\ how\ to\ implement\ all\ the\ methods\ needed\ here.\ Some\ are\ 'getter'\ methods,\nothers\ are\ add/remove\ methods\ for\ adding/removing\ items\ from\ the\ ShoppingCart's\ ArrayList.\nThe\ one\ method\ that\ might\ not\ be\ clear\ is\ the\ one\ called\ 'close()'.\ When\ the\ close()\ method\ is\ncalled,\ items\ cannot\ be\ added\ or\ removed\ from\ the\ ShoppingCart.\ If\ you\ try\ to\ call\ the\nShoppingCart's\ add(Item\ item)\ method\ after\ the\ close\ method\ is\ called,\ it\ will\ print\ out\ an\ error\n\:\ "Sorry\ the\ shopping\ cart\ is\ closed".\n\n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=customer
+comment1.target=ShoppingCart(Customer)
+comment10.params=
+comment10.target=void\ clear()
+comment2.params=item
+comment2.target=void\ addItem(Item)
+comment3.params=item
+comment3.target=void\ removeItem(Item)
+comment4.params=
+comment4.target=float\ getTotal()
+comment5.params=
+comment5.target=int\ getCartId()
+comment6.params=
+comment6.target=Customer\ getCustomer()
+comment7.params=
+comment7.target=java.util.ArrayList\ getCartItems()
+comment8.params=
+comment8.target=void\ printItems()
+comment9.params=
+comment9.target=void\ close()
+numComments=11

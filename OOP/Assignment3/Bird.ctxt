@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bird
+comment1.params=
+comment1.target=Bird()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Bird\n
+comment2.params=distance
+comment2.target=java.lang.String\ move(int)
+comment2.text=\n\ move\ method\ overrides\ the\ move\ method\n\ inherited\ from\ superclass\ Animal\n
+comment3.params=
+comment3.target=java.lang.String\ sing()
+comment3.text=\n\ sing\ method\ that\ all\ birds\ have\n
+comment4.params=
+comment4.target=boolean\ hasWings()
+comment4.text=\n\ 'getter'\ method\ for\ the\ hasWings\ field\n
+comment5.params=
+comment5.target=boolean\ hasFeathers()
+comment5.text=\n\ 'getter'\ method\ for\ the\ hasFeathers\ field\n
+comment6.params=
+comment6.target=boolean\ flies()
+numComments=7

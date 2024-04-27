@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Order
+comment0.text=\n\ The\ role\ of\ the\ Order\ class\ is\ to\ take\ a\ ShoppingCart\ object\ and\ transfer\ its\ items\ one\ by\ one\ninto\ itself.\ It\ should\ also\ take\ the\ information\ about\ the\ Customer.\ Once\ this\ is\ done,\ the\nShoppingCart\ should\ be\ empty.\ i.e.\ its\ Arraylist\ should\ be\ empty.\nOrder\ is\ an\ important\ class\ in\ this\ programme.\ Look\ over\ the\ lecture\ notes\ to\ see\ the\ list\ of\nmethods\ that\ we\ provisionally\ assigned\ to\ it.\ It\ will\ have\ relationships\ with\ several\ other\nobjects\ such\ as\ ShoppingCart,\ Payment,\ Address\ and\ Email\n\n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=shoppingcart\ customer\ shippingaddress
+comment1.target=Order(ShoppingCart,\ Customer,\ Address)
+comment2.params=shoppingcart
+comment2.target=void\ transferItems(ShoppingCart)
+comment3.params=
+comment3.target=long\ makeOrderNum()
+comment4.params=status
+comment4.target=void\ setOrderStatus(java.lang.String)
+comment5.params=
+comment5.target=float\ calcTotalPrice()
+comment6.params=
+comment6.target=double\ getOrderNum()
+comment7.params=
+comment7.target=java.lang.String\ getOrderDetails()
+comment8.params=
+comment8.target=float\ getOrderTotal()
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TrafficLights
+comment0.text=\n\ A\ class\ composed\ of\ three\ Light\ objects\ that\ indicates\ which\ is\ currently\ lit.\n\n\ @author\ (Oisin\ Mc\ Laughlin)\n\ @version\ (v1.0)\n
+comment1.params=
+comment1.target=TrafficLights()
+comment2.params=
+comment2.target=void\ go()
+comment3.params=
+comment3.target=void\ prepareToStop()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ printState()
+numComments=6

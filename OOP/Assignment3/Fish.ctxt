@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fish
+comment1.params=
+comment1.target=Fish()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Fish\n
+comment2.params=distance
+comment2.target=java.lang.String\ move(int)
+comment3.params=
+comment3.target=boolean\ hasFins()
+comment4.params=
+comment4.target=boolean\ canSwim()
+comment5.params=
+comment5.target=boolean\ hasGills()
+numComments=6

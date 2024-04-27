@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestTrafficLight
+comment0.text=\n\ This\ is\ a\ testing\ class\ which\ will\ have\ a\ main\ method,\ and\ which\ will\ test\nthe\ functionality\ of\ the\ TrafficLights\ class.\ The\ Light\ class\ will\ be\ implicitly\ tested\ since\ it\ is\nused\ by\ the\ TrafficLight\ class.\n\n\ @author\ (Oisin\ Mc\ Laughlin)\n\ @version\ (v1.0)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

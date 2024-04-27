@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Email
+comment0.text=\n\ The\ role\ of\ the\ Email\ object\ is\ to\ send\ (you\ are\ required\ to\ just\ printout\ on\ the\ screen)\ an\ email\nmessage\ to\ the\ customer.\ If\ the\ Payment\ has\ been\ successful,\ then\ it\ will\ be\ a\ positive\ message\ngiving\ the\ order\ number,\ the\ order\ details,\ the\ delivery,\ and\ billing\ addresses.\ If\ the\ Payment\nhas\ been\ unsuccessful,\ then\ the\ message\ explains\ that\ the\ order\ has\ not\ been\ made.\ In\ either\ncase,\ the\ customer\ must\ be\ addressed\ by\ their\ first\ name\ and\ the\ email\ address\ is\ their\ email\naddress\ (from\ the\ Customer\ object)\n\n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=order\ delivery\ billing\ payment\ customer
+comment1.target=Email(Order,\ Address,\ Address,\ Payment,\ Customer)
+comment2.params=
+comment2.target=void\ sendEmail()
+numComments=3

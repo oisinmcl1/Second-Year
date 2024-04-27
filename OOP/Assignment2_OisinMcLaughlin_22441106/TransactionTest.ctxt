@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransactionTest
+comment0.text=\n\ As\ illustrated\ in\ the\ lectures,\ this\ is\ a\ test\ class.\ It\ should\ have\ two\ methods\ -\ one\ for\ each\nscenario.\ They\ are\ executed\ from\ the\ main\ method,\ which\ is\ contained\ by\ the\ TransactionTest\nclass\n\n\ @author\ (Oisin\ Mc\ Laughlin)\n\ @version\ (v1.0)\n
+comment1.params=
+comment1.target=TransactionTest()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ main\ method\ -\ program\ execution\ starts\ here\n
+comment3.params=
+comment3.target=void\ transaction1()
+comment4.params=
+comment4.target=void\ transaction2()
+numComments=5

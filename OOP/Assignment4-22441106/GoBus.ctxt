@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GoBus
+comment1.params=cName\ seats\ price
+comment1.target=GoBus(java.lang.String,\ int,\ double)
+numComments=2

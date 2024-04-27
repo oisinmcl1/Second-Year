@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Light
+comment0.text=\n\ A\ class\ that\ represents\ a\ single\ light.\ All\ lights\ have\ a\ colour\ and\ indicator\ of\ whether\nthey\ are\ currently\ on\ or\ off\ (a\ Boolean\ variable).\n\n\ @author\ (Oisin\ Mc\ Laughlin)\n\ @version\ (v1.0)\n
+comment1.params=colour
+comment1.target=Light(java.lang.String)
+comment2.params=
+comment2.target=boolean\ getState()
+comment3.params=
+comment3.target=java.lang.String\ getColour()
+comment4.params=state
+comment4.target=void\ setState(boolean)
+comment5.params=colour
+comment5.target=void\ setColour(java.lang.String)
+comment6.params=
+comment6.target=void\ on()
+comment7.params=
+comment7.target=void\ off()
+comment8.params=
+comment8.target=void\ printstate()
+numComments=9

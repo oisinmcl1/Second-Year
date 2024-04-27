@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CityLink
+comment1.params=cName\ seats\ price
+comment1.target=CityLink(java.lang.String,\ int,\ double)
+numComments=2

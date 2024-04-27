@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ A\ simple\ class\ that\ stores\ a\ student's\ name,\ grade,\ and\ if\ they\ are\ registered.\n\n\ @author\ Oisin\n\ @version\ v2.0\n
+comment1.params=studentName\ studentGrade\ reg
+comment1.target=Student(java.lang.String,\ float,\ boolean)
+comment2.params=
+comment2.target=boolean\ isStudentRegistered()
+comment3.params=reg
+comment3.target=void\ setRegistered(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getStudentName()
+comment5.params=
+comment5.target=float\ getStudentGrade()
+comment6.params=sName
+comment6.target=void\ setStudentName(java.lang.String)
+comment7.params=sGrade
+comment7.target=void\ setStudentGrade(float)
+numComments=8

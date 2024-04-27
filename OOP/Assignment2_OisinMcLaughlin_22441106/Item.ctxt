@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Code\ provided\ in\ lecture\ slides.\nChanged\ price\ to\ double,\ added\ price\ into\ constructor.\n\ \n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=itemName\ price\ id
+comment1.target=Item(java.lang.String,\ double,\ long)
+comment2.params=price
+comment2.target=void\ setPrice(float)
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

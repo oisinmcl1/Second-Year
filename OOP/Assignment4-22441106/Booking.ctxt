@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=numSeats\ tripId\ bus
+comment1.target=Booking(int,\ int,\ BusTemplate)
+comment2.params=
+comment2.target=int\ genId()
+comment3.params=
+comment3.target=boolean\ makeBook()
+comment4.params=
+comment4.target=int\ getBookId()
+numComments=5

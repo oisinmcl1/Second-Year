@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BusTemplate
+comment1.params=cName\ seats\ price
+comment1.target=BusTemplate(java.lang.String,\ int,\ double)
+comment2.params=trip
+comment2.target=void\ addTrip(Trip)
+comment3.params=numS
+comment3.target=void\ setSeats(int)
+comment4.params=
+comment4.target=int\ getSeats()
+comment5.params=id
+comment5.target=Trip\ findTrip(int)
+comment6.params=numBook\ id
+comment6.target=boolean\ checkAval(int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

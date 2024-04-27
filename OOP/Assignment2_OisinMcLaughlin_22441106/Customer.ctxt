@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ Code\ provided\ in\ lecture\ slides.\n\n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=firstName\ surName\ emailAddress
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=
+comment4.target=java.lang.String\ getSurName()
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+comment6.params=
+comment6.target=long\ makeCustomerId()
+numComments=7

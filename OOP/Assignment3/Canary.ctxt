@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Canary
+comment1.params=name
+comment1.target=Canary(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Canary\n
+comment2.params=
+comment2.target=java.lang.String\ sing()
+comment2.text=\n\ Sing\ method\ overrides\ the\ sing\ method\n\ inherited\ from\ superclass\ Bird\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ toString\ method\ rfeturns\ a\ String\ representation\ of\ the\ bird\n\ What\ superclass\ has\ Canary\ inherited\ this\ method\ from?\ \n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\n\ equals\ method\ defines\ how\ equality\ is\ defined\ between\ \n\ the\ instances\ of\ the\ Canary\ class\n\ param\ Object\n\ return\ true\ or\ false\ depending\ on\ whether\ the\ input\ object\ is\ \n\ equal\ to\ this\ Canary\ object\n
+numComments=5

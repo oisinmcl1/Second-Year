@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestStudent
+comment0.text=\n\ A\ simple\ class\ for\ testing\ the\ Student\ class.\n\n\ @author\ Frank\n\ @version\ v2.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

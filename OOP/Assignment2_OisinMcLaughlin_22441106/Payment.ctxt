@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Payment
+comment0.text=\n\ The\ Payment\ class\ holds\ the\ following\ pieces\ of\ information\:\n\u2022\ customer;\n\u2022\ credit\ card\ type;\n\u2022\ credit\ card\ number;\n\u2022\ date;\n\u2022\ address;\n\u2022\ credit\ card\ bank\ name\n\n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=customer\ cardType\ cardNum\ date\ address\ bankName
+comment1.target=Payment(Customer,\ java.lang.String,\ long,\ java.lang.String,\ Address,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCardType()
+comment3.params=cardType
+comment3.target=boolean\ isValid(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

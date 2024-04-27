@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Address
+comment0.text=\n\ The\ role\ of\ the\ Address\ class\ is\ to\ hold\ the\ address\ fields\ of\ the\ Customer's\ address\:\ e.g.\ street,\ncity,\ zip,\ country.\ A\ customer\ may\ have\ two\ Address\ objects\ associated\ with\ them\ -\ a\ billing\naddress\ and\ a\ delivery\ address.\ You\ will\ need\ methods\ to\ set\ and\ get\ the\ information\ in\ each\nAddress\ object.\n\n\ @author\ (Oisin\ Mc\ Laughlin\ -\ 22441106)\n\ @version\ (v1.0)\n
+comment1.params=street\ city\ zip\ country
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getStreet()
+comment3.params=street
+comment3.target=void\ setStreet(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCity()
+comment5.params=city
+comment5.target=void\ setCity(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getZip()
+comment7.params=zip
+comment7.target=void\ setZip(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getCountry()
+comment9.params=country
+comment9.target=void\ setCountry(java.lang.String)
+numComments=11

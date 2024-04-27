@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BusEireann
+comment1.params=cName\ seats\ price
+comment1.target=BusEireann(java.lang.String,\ int,\ double)
+numComments=2
